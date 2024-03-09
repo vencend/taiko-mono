@@ -1,4 +1,4 @@
-# Release workflow
+# Release workflow v2
 
 ## Testnet release PRs and main development
 
